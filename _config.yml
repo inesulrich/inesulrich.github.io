@@ -15,7 +15,7 @@ url                      : https://inesulrich.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true #true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,10 @@ author:
   bio              : "PhD student in computational Geophysics, mostly doing stuff outside of Geophysics"
   location         : "Zürich"
   employer         :
+  bicycle          : <i class="fa fa-bicycle" aria-hidden="true"></i>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2WPT0NwAAAAJ&hl=de"
-  email            :
+  email            :  "ines.ulrich@erdw.ethz.ch"
   researchgate     :  "https://www.researchgate.net/profile/Ines-Ulrich"
   uri              :
   bitbucket        :
@@ -96,24 +97,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://gitlab.com/IEU"
+  github           : "inesulrich"
+  gitlab           : "IEU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0444-4998"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/watch?v=RjuZEzJvDls"
+  youtube          : "@seismologyandwavephysics-e6406"
   wikipedia        :
 
 
