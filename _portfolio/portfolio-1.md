@@ -9,7 +9,7 @@ collection: portfolio
 If the terms _diffuse ultrasound_ seem a bit diffuse for you, don't worry, I'll do my best to explain this on a conceptual level as well as a bit more in detail for the interested reader. To start off, let's define the main purpose of this study: transferring a concept called interferometry from seismic imaging to medical ultrasound with the specific application to breast cancer screening. Before I briefly describe seismic interferometry, I want to mention a few points.
 Current state-of-the-art breast cancer screening mostly relies on mammography with additional data added by MRI or hand held ultrasound. For more information check out ...portfolio on medical ultrasound/breast cancer screening. Ultrasound has many attractive features that would make it a preferable screening device (for more information also see the linked post from above). Thus designing ultrasound devices for breast cancer screening is an active field of research. With this study, we focussed on an alternative method to speed up the data acquisition of a breast cancer scan, which at it's core makes use of the principle applied in seismic interferometry.
 
-**Interlude: Seismic interferomety**
+**Interlude: Seismic interferometry**
 The main interest of seismic imaging is to generate an image of the subsurface using a tomographic method analogously to the aim in medical imaging, where one is interested in an image of the internal structure of a certain body part. The general concept of acquiring an image contains several parts:
     1. we need a device that can perform an experiment or measurement and acquire some data
     2. we need a way to link this data to a model of the imaged object's structure
