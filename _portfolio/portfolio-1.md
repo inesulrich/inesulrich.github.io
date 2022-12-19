@@ -2,7 +2,7 @@
 title: "Diffuse ultrasound computed tomography"
 excerpt: "_Active_ noise tomography for medical ultrasound?<br/>
 <br/>
-<center><img src='/images/checkerboard.png' width='500'>"
+<center><img src='/images/interferometry_placeholder.png' width='500'>"
 collection: portfolio
 ---
 

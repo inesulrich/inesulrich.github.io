@@ -1,7 +1,6 @@
 _site/
+.DS_Store
 
-/images/modelrecon_cropped.gif
-/images/transm_wfFit_recon_BP2.85MHz.gif
-/images/RandomWavefieldGeneration_crop.gif 
+/images/RandomWavefieldGeneration_cropped.gif 
 
 
