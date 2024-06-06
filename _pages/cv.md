@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geophysics, Eidgenössische Technische Hochschule Zürich, 2023 (expected)
+* Postdoctoral researcher in the group seismology and wave physics at ETH Zurich, 2024
+* Ph.D in Geophysics, Eidgenössische Technische Hochschule Zürich, 2023 
 * M.S. in applied Geophysics (joint Master), Delft University of Technology, Eidgenössische Technische Hochschule Zürich, Rheinisch-Westfälische Technische Hochschule Aachen, 2019 
 * B.S. in Geoscience, Freie Universität Berlin, 2016
 

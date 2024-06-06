@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ines and here you will find some of my personal and work related projects. I am currently pursuing a PhD in Geophysics with a focus on medical ultrasound. If you are not familiar with wave propagation, it may not be trivial to connect Geophysics with medical ultrasound. If you keep on reading and browsing through this website however, I hope that I can convince you that these two fields of research have many common aspects and transferring knowledge between the two research communities is a very interesting and active field of research. 
+Hi, I'm Ines and here you will find some of my personal and work related projects. I am currently a postdoctoral researcher in the group [Seismology and wave physics](https://cos.ethz.ch/) at ETH Zurich with a focus on medical ultrasound. Prior to this, I completed my PhD on wave-based imaging methods at the Institute of Geophysics at ETH Zurich. If you are not familiar with wave propagation, it may not be trivial to connect seismology with medical ultrasound. If you keep on reading and browsing through this website, however, I hope that I can convince you that these two fields of research have many common aspects and transferring knowledge between the two research communities is a very interesting and active field of research. 
 
 
 From seismics to medical ultrasound: _a journey across scales_
@@ -28,11 +28,11 @@ If you are not familiar with computational imaging methods, here is just a very 
 
 
 
-------
+<!-- ------
 At the end, I want to send out a motivational line (mostly for myself :-)): 
 
 Keep on searching and stay curious!
 
-![](../images/castlesreen_crop.jpeg)
+![](../images/castlesreen_crop.jpeg) -->
 
 
