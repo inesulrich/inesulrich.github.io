@@ -1,5 +1,5 @@
 ---
-title: "Diffuse ultrasound computed tomography"
+title: "Full-waveform inversion with resolution proxies for in-vivo ultrasound computed tomography"
 collection: publications
 permalink: /publication/2023-10-01-Made-up-paper
 excerpt: 'Hello, I am a test paper'
